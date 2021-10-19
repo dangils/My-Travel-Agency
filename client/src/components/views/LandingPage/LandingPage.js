@@ -153,7 +153,7 @@ function LandingPage() {
         <div style={{ width: '75%', margin: '3rem auto' }}>
 
             <div style={{ textAlign: 'center' }}>
-                <h2>Let's Travel Anywhere <Icon type="rocket" /> </h2>
+                <h2>HanGil's Travel Agency <Icon type="rocket" /> </h2>
             </div>
 
             {/* Filter */}
