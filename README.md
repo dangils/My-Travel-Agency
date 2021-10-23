@@ -4,7 +4,11 @@
 #### 실행방법
 ```
 server/config 폴더에 dev.js (MongoURL) 생성
-npm run dev
+My-Travel-Agency-main/ npm i 
+My-Travel-Agency-main/ cd client
+My-Travel-Agency-main/client npm i
+My-Travel-Agency-main/ cd .. 
+My-Travel-Agency-main/ npm run dev
 ```
 
 
