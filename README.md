@@ -55,7 +55,27 @@ My-Travel-Agency-main/ npm run dev
 ![장바구니2](https://user-images.githubusercontent.com/74512114/137867379-afe8a954-3814-4fb0-abc0-9a1437183bda.gif)
 
 
-----------------------   
+----------------------    
+
+## 제작 StoryBoard  
+<div align="center">
+ <img src = "https://user-images.githubusercontent.com/74512114/138589248-1bc53e51-31e1-45f9-a6e3-bb587ed27ce1.png" width="700" height="500"  />  
+  
+ <img src = "https://user-images.githubusercontent.com/74512114/138589477-ebfd86a3-814f-4ce1-85a6-dfefb5a75b36.png" width="700" height="500"  />    
+ <img src = "https://user-images.githubusercontent.com/74512114/138589513-b1a4b3ae-79be-4e49-9315-5cf75b869855.png" width="700" height="500"  />     
+  
+ <img src = "https://user-images.githubusercontent.com/74512114/138589547-7e3d4ef9-de9c-47cf-9aa2-bbb3a6ae3b2d.png" width="700" height="500"  />  
+  
+  
+ <img src = "https://user-images.githubusercontent.com/74512114/138589592-b471d3d0-7d0e-4d80-a5f2-99ddfa45da79.png" width="700" height="500"  />    
+  
+  
+ <img src = "https://user-images.githubusercontent.com/74512114/138589626-a0193b5b-9561-42ab-a98f-71def2a61812.png" width="700" height="600"  />  
+  
+</div>
+
+
+
 
 <!--
 ### ✔ 기타 이슈 사항  
